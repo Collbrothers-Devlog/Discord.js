@@ -1,4 +1,4 @@
-const { Client, MessageEmbed } = require("discord.js"); // Require the required files
+const { Client, MessageEmbed } = require("discord.js"); // Require the required classes
 const client = new Client();
 
 client.on("ready", () => {
